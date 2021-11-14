@@ -9,7 +9,7 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mycashbookr.R;
+import com.example.mycashbook.R;
 
 import java.util.List;
 

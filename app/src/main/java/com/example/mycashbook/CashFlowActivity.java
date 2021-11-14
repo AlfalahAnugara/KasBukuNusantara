@@ -10,7 +10,7 @@ import androidx.recyclerview.widget.DefaultItemAnimator;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.mycashbookr.R;
+import com.example.mycashbook.R;
 
 import java.util.ArrayList;
 import java.util.List;

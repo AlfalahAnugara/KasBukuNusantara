@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.mycashbookr.R;
+import com.example.mycashbook.R;
 
 public class LoginActivity extends Activity {
     EditText username, password;
@@ -32,7 +32,7 @@ public class LoginActivity extends Activity {
         regist.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), com.example.mycashbook.RegisterActivity.class);
+                Intent intent = new Intent(LoginActivity.this,RegisterActivity.class);
                 startActivity(intent);
                 finish();
             }

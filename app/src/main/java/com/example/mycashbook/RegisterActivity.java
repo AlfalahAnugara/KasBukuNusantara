@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.mycashbookr.R;
+import com.example.mycashbook.R;
 
 public class RegisterActivity extends Activity {
 
