@@ -9,6 +9,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.mycashbookr.R;
+
 public class LoginActivity extends Activity {
     EditText username, password;
     Button loginButton;

@@ -9,6 +9,8 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.example.mycashbookr.R;
+
 public class SettingsActivity extends AppCompatActivity {
     EditText pass_now, pass_new;
     Button save;

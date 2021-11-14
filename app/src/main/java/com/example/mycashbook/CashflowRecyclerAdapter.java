@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.mycashbookr.R;
+
 import java.util.List;
 
 public class CashflowRecyclerAdapter extends RecyclerView.Adapter<CashflowRecyclerAdapter.CashflowViewHolder> {
